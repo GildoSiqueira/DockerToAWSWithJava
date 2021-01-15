@@ -1,3 +1,6 @@
+# Build com sucesso. 
+[![Build Status](https://travis-ci.com/GildoSiqueira/DockerToAWSWithJava.svg?branch=main)](https://travis-ci.com/GildoSiqueira/DockerToAWSWithJava)
+
 # Docker para Amazon AWS Implante Apps Java e .NET com Travis CI
 
 [![Build Status](https://travis-ci.org/leandrocgsi/DockerToAWSWithJava.svg?branch=master)](https://travis-ci.org/leandrocgsi/DockerToAWSWithJava)
